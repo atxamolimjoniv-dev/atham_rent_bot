@@ -1,1 +1,2 @@
-worker: python installment_bot.py
+
+worker: python arenda_bot.py
